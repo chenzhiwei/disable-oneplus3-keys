@@ -1,0 +1,7 @@
+id=disable-oneplus3-keys
+name=Disable OnePlus 3 Hardware keys
+version=v1
+versionCode=1
+author=zhiwei
+description=Disable OnePlus 3 Hardware keys
+minMagisk=17000
